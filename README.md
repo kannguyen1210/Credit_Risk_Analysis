@@ -20,8 +20,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Random Forest Ensemble
 ![alt text](/images/Random_Forest.png)
 
-## Easey Ensemble
+## Easy Ensemble
 ![alt text](/images/EasyEnsemble.png)
 
 # Summary
+Based on the results above, we can see that among the 6 models, we can see that the Easy Ensemble model yielded the best results in term of accuracy score, precisions, recall and F1 score. Although all the model have the low_risk precision very high, it is misleading because the number of low risk records are extremely high compare to the low risk records. Therefore, taking into consideration recall and F1 Score, the Random Forest and Easy Ensemble have the best metrics here. 
 
+Finally, looking at the precision of 0.88 and 0.9 F1 Score of 0.94 vs 0.95 between Random Forest and Easy Ensemble respectively, we can conclude that the Easy Ensemble would yield the best result for Credit Risk Analysis.
