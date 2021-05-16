@@ -21,7 +21,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ![alt text](/images/Random_Forest.png)
 
 ## Easey Ensemble
-![alt text](/images/Easy_Ensemble.png)
+![alt text](/images/EasyEnsemble.png)
 
 # Summary
 
